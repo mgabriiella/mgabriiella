@@ -1,8 +1,8 @@
 ## Olá! Eu sou Maria Gabriella.
 Estudante de Análise e Desenvolvimento de Sistemas e Gestão da Tecnologia da Informação, apaixonada por tecnologia e inovação.
 
-💻 Desenvolvedora Back-End e com sólida base em Front-End.
-📚 Atualmente, estou me aprofundando em Python para ampliar minhas habilidades técnicas.
+💻 Desenvolvedora Back-End e com base em Front-End.
+📚 Atualmente, estou me aprofundando em Java para ampliar minhas habilidades técnicas.
 📬 Entre em contato comigo:
 ✉️ mariagabriellasilvaacala@gmail.com
 

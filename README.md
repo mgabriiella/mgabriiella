@@ -1,5 +1,5 @@
 ## Olá! Eu sou Maria Gabriella.
-Estudante de Análise e Desenvolvimento de Sistemas e Gestão da Tecnologia da Informação, apaixonada por tecnologia e inovação.
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação.
 
 💻 Desenvolvedora Back-End e com base em Front-End.
 📚 Atualmente, estou me aprofundando em Java para ampliar minhas habilidades técnicas.

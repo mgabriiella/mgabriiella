@@ -1,8 +1,6 @@
 ## Olá! Eu sou Maria Gabriella.
 Sou estudante do 3º período de Análise e Desenvolvimento de Sistemas e técnica em Desenvolvimento de Sistemas
 
-💻 Desenvolvedora Back-End e com base em Front-End.
-📚 Atualmente, estou me aprofundando em Java para ampliar minhas habilidades técnicas.
 📬 Entre em contato comigo:
 ✉️ mariagabriellasilvaacala@gmail.com
 

@@ -1,5 +1,5 @@
 ## Olá! Eu sou Maria Gabriella.
-Sou estudante do 3º período de Análise e Desenvolvimento de Sistemas e técnica em Desenvolvimento de Sistemas
+Atualmente, atuo como Analista de Sistemas Júnior em formação, cursando o 5º período de Análise e Desenvolvimento de Sistemas e Gestão da Tecnologia da Informação.
 
 📬 Entre em contato comigo:
 ✉️ mariagabriellasilvaacala@gmail.com

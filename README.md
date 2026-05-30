@@ -4,12 +4,6 @@ Atualmente, atuo como Analista de Sistemas Júnior em formação, cursando o 5º
 📬 Entre em contato comigo:
 ✉️ mariagabriellasilvaacala@gmail.com
 
-<div>
-  <a href="https://github.com/magabriiella">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgabriiella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgabriiella&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
 
 ##
 <div style="display: inline_block"><br>
